@@ -1,0 +1,16 @@
+{
+    "scientist": [
+      { "id": 1, "name": "Albert Einstein", "invention": "Relativity Theory", "inventionId": 1},
+      { "id": 2, "name": "Isaac Newton", "invention": "Gravity", "inventionId": 2},
+      { "id": 3, "name": "Thomas Edison", "invention": "Bulb", "inventionId":3 }
+    ],
+    "inventions": [
+        {"id":1, "name": "Relativity Theory" },
+        {"id":2, "name": "Gravity" },
+        {"id":3, "name": "Bulb" }
+    
+    
+    ]
+}
+
+
